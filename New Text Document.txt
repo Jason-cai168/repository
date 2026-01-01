@@ -1,0 +1,36 @@
+以下是主要的蓝牙BLE芯片厂商及其热门型号：
+
+主流厂商及热门型号
+1. Nordic Semiconductor
+nRF52832 - 经典款，性价比高
+nRF52840 - 支持USB，性能更强
+nRF5340 - 双核架构，低功耗
+nRF51822 - 早期经典产品
+2. Texas Instruments (TI)
+CC2540/CC2541 - 早期主流产品
+CC2640R2F - 超低功耗
+CC2652RB - 多协议支持
+SimpleLink系列 - 现代化解决方案
+3. Dialog Semiconductor
+DA14580/585 - 超低功耗
+DA1469x系列 - 高性能ARM Cortex-M33
+DA14531 - 入门级低成本方案
+4. Cypress (现Infineon)
+PSoC 4 BLE系列 - 集成度高
+CYW20719 - 双模蓝牙
+CYW20819 - 新一代产品
+5. Qualcomm
+CSR1010/1012 - 早期知名产品
+QCC51xx系列 - 音频应用为主
+6. 国产厂商
+汇顶科技 - GR551x系列
+恒玄科技 - BES2300系列
+杰理科技 - AC69系列
+炬芯科技 - ATS2819系列
+中科蓝讯 - AB5326系列
+选择建议
+开发难度：Nordic生态最完善
+成本控制：国产方案性价比较高
+功耗要求：Dialog和TI表现优秀
+音频应用：Qualcomm和Cypress优势明显
+不同应用场景建议选择对应的专门优化方案。
