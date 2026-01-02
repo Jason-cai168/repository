@@ -8,7 +8,7 @@ nRF5340 - 双核架构，低功耗
 nRF51822 - 早期经典产品
 2. Texas Instruments (TI)
 CC2540/CC2541 - 早期主流产品
-CC2640R2F - 超低功耗
+CC2640R2F - 超低功耗-
 CC2652RB - 多协议支持
 SimpleLink系列 - 现代化解决方案
 3. Dialog Semiconductor
@@ -34,3 +34,4 @@ QCC51xx系列 - 音频应用为主
 功耗要求：Dialog和TI表现优秀
 音频应用：Qualcomm和Cypress优势明显
 不同应用场景建议选择对应的专门优化方案。
+--
